@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: hsl(102, 9%, 45%);
+  padding: 50px;
+}
+h1{
+  color:#ffffff;
+  font-size: 90px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: 2000;
+}
+button {
+  padding: 50px 60px;
+  font-size: 30px;
+  cursor: pointer;
+  background-color: #ffffff;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  border-radius: 25px;
+
+}
+#memoryDisplay {
+  padding:60px ;
+  margin-top: 30px;
+  font-size: 25px;
+  color: #ffffff;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
